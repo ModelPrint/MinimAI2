@@ -1,0 +1,6 @@
+fastapi
+uvicorn[standard]
+gradio
+llama_cpp
+transformers
+huggingface_hub
